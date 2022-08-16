@@ -3,9 +3,13 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/OscarVillanueva/lnx-random-color",
+    "type": "git"
+  },
+  "homepage": "https://javier-villanueva.netlify.app",
   "files": [
-    "dist",
-    "src"
+    "dist"
   ],
   "engines": {
     "node": ">=10"
